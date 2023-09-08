@@ -1,6 +1,6 @@
 basic:
-  name: Foo Bar                      # name
-  title: Backend Developer           # job title
+  name: ZHOU JINGCHUN                 # name
+  title: Postdoctoral Researcher          # job title
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/Logo1.jpg   # avatar file path
