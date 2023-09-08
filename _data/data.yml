@@ -12,9 +12,9 @@ contact:
   phone: +86-15542671391 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website: example.com     # site URL without schema, like example.com, will automatically prepand "https://"
 
-  gender:                  # gender or pronoun
+  gender: Male                 # gender or pronoun
   birthday:                # birthday
-  nationality:             # nationality
+  nationality: China            # nationality
   visa:                    # passport visa
   drivinglicense:          # driving licence
 
